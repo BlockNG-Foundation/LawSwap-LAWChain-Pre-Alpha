@@ -1,0 +1,68 @@
+[
+  {
+    "address": "0xDE02A04c918B939aB435a4F4FF865235470219b0",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-LAWChain-Pre-Alpha/main/tokens/0xDE02A04c918B939aB435a4F4FF865235470219b0.svg",
+    "name": "LAWTOKEN",
+    "symbol": "LAW",
+    "decimals": 18,
+    "telegram": "https://t.me/BlockNGGlobal",
+    "websites": ["https://blockng.money/"]
+  },
+  {
+    "address": "",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-LAWChain-Pre-Alpha/main/tokens/0x75808FF5f3F781dD8A3D3893B217C7D647909df5.svg",
+    "name": "IDE",
+    "symbol": "IDE",
+    "decimals": 18
+  },
+  {
+    "name": "LAW Entropy",
+    "address": "0xe770e8DBaDd276AC59284720E59bEbe9d0C1d026",
+    "symbol": "lawETP",
+    "decimals": 18,
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-LAWChain-Pre-Alpha/main/tokens/0xe770e8DBaDd276AC59284720E59bEbe9d0C1d026.svg",
+    "websites": ["https://blockng.money/"],
+    "telegram": "https://t.me/BlockNGGlobal",
+    "desc": "The universe is destined for thermodynamic equilibrium — maximum entropy."
+  },
+  {
+    "name": "LAW US Dollar",
+    "desc": "Stablecoin of LAW Ecosystem",
+    "address": "0x077Bd0307f6F0AACbB0c92c7367C51d5d70a7A33",
+    "symbol": "lawUSD",
+    "decimals": 18,
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-LAWChain-Pre-Alpha/main/tokens/0x077Bd0307f6F0AACbB0c92c7367C51d5d70a7A33.svg",
+    "websites": ["https://blockng.money/"],
+    "telegram": "https://t.me/BlockNGGlobal",
+    "twitter": "https://twitter.com/BlockngO/",
+    "github": "https://github.com/BlockNG-Foundation"
+  },
+  {
+    "address": "0x75808FF5f3F781dD8A3D3893B217C7D647909df5",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-LAWChain-Pre-Alpha/main/tokens/0x75808FF5f3F781dD8A3D3893B217C7D647909df5.svg",
+    "name": "Wrapped IDE",
+    "symbol": "WIDE",
+    "decimals": 18
+  },
+  {
+    "address": "0x8938Ffc6D36E3530aDb281EE01a631B0c65fB67F",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-LAWChain-Pre-Alpha/main/tokens/0x8938Ffc6D36E3530aDb281EE01a631B0c65fB67F.png",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18
+  },
+  {
+    "address": "0xDb696578f99B2D40d56B14900BAc809CC15185eE",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-LAWChain-Pre-Alpha/main/tokens/0xDb696578f99B2D40d56B14900BAc809CC15185eE.svg",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 18
+  },
+  {
+    "address": "0xfFeedaF902DF4F8b15ebba54eA46d6d22B3E5e59",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-LAWChain-Pre-Alpha/main/tokens/0xfFeedaF902DF4F8b15ebba54eA46d6d22B3E5e59.svg",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 18
+  }
+]
